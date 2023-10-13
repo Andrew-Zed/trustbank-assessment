@@ -1,10 +1,10 @@
-package com.andrew.soapdemo;
+package com.andrew.soapservicedemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SoapDemoApplicationTests {
+class SimplesoapserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
